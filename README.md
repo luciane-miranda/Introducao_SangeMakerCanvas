@@ -13,7 +13,7 @@ Este repositório contém a anotações e insights adquiridos durante a as aulas
 
 ## O Que Estudamos nas Aulas
 
-// Desenvolvendo conhecimento sobre orquestração de fluxos de trabalho em nuvem, utilizando a AWS Step Functions para:  
+<!-- Desenvolvendo conhecimento sobre orquestração de fluxos de trabalho em nuvem, utilizando a AWS Step Functions para:  
 - integrar de forma visual aplicações distribuídas e microsserviços;  
 - automatizar processos sem servidor (“serverless”);  
 - orquestrar pipelines de dados e machine learning;  
@@ -53,6 +53,7 @@ Permite processar dados sob demanda com fluxos paralelos de grande escala, ideal
 - Também é possível trabalhar com a infraestrutura da AWS, criando Lambdas e executando, se assim for definido, comandos IaS.
 - Se usarmos templates, o Step Functions cria recursos automaticamente, então é importante acompanhar a utilização dos recursos e parar sua execução.
 
+-->
 ---
 
 > *Desenvolvido por Luciane Silva de Miranda como parte do desafio de projeto Previsão de Estoque Inteligente na AWS com Sagemaker Canvas*
